@@ -1,0 +1,163 @@
+/*=============================================================================================	
+	style css decorated by : Web Architect (webarq.com)
+	author : Restu Herwanto
+==============================================================================================*/
+/*global*/
+.wrapper{width:290px;}
+.linetotop{height:4px;}
+.img-tatakelola{display:none;}
+.shadowcontent {
+	height: 15px;
+	width: 290px;
+	background: url(../images/material/shadow-content.jpg)no-repeat center center;
+	opacity: 0.5;
+	background-size: contain;
+	margin: auto;
+}
+.clear_responsive{clear: both;display: block;margin-top: 10px;}
+.clear_responsive_320_radio{display:block;position: relative;clear:both;}
+.clear_responsive_320{display:block;margin-left:22px;position: relative;top: -6px;clear:both;}
+.clear_desktop_radio{margin-left: 0px;position: relative;top: 0px;}
+.clear_responsive_480{display:initial;margin-left:0px;position: relative;top: 0px;clear:both;}
+.dn{display:none}
+.responsive_design_display{
+	display:block;
+}
+.desktop_design_display{
+	display:none;
+}
+/*.bacaselengkapnya{font-size: 14px;width: 200px;}*/
+.silder_home {
+	cursor: move; position: absolute; left: 0px; top: 0px; width: 480px; height: 300px; overflow: hidden;
+}
+#slider1_container{
+	display: none; position: relative; margin: 0 auto;top: 0px; left: 0px; width: 480px; height: 300px; overflow: hidden;
+}
+/*home*/
+#middle.home .content .value{width:100%;}
+#middle.home .content .value .box{display:block;margin:auto;}
+#middle.home .content .value .box:last-child{display:block;margin:auto;}
+#middle.home .content .value{margin-bottom:30px;}
+#middle.home .content .title{padding-top:30px;}
+#middle.home .content .value .box{margin-bottom:30x;}
+#middle.home .content .value .box .value-text{float: none;margin-bottom: 25px;}
+
+
+#middle.home .content .labellayanan{font-size: 20px;line-height: 28px;}
+.wrapperleft{height:420px;background: url(../images/content/img-profil320.jpg)no-repeat right center;background-size:cover;}
+#middle.home #profil .main-profil .wrapperfull .wrapperright .content-profil{width: 290px;}
+#middle.home #profil .main-profil .wrapperfull .wrapperright .content-profil .subtitle{font-size: 29px;}
+#middle.home #profil .main-profil .wrapperfull .wrapperright .content-profil .subtitle span img{height:35px;}
+
+#beritakami{width: 290px;}
+#middle.home #beritakami .content-berita .box-berita .berita-img img{width:100%;}
+#middle.home #beritakami .content-berita .box-berita .berita-img{width:100%;}
+#middle.home #beritakami .content-berita .box-berita{width:290px;}
+
+#middle.home #map .textmap{font-size: 20px;line-height: 28px;}
+
+#middle.home #profil .main-profil .wrapperfull .wrapperright .content-profil .line{margin-left:0px;}
+#middle.home #profil .main-profil .wrapperfull .wrapperright .content-profil .profil-text p{margin-left:0px;}
+
+#tatakelola{width:290px;}
+#tatakelolalaporantahunan{width:290px;}
+#middle.home #tatakelolalaporantahunan #tatakelola .row-title .title{width: 235px;}
+
+#laporantahunan{width:290px;}
+#middle.home #tatakelolalaporantahunan #laporantahunan .row-title .title{width:240px;}
+
+#middle.home #tatakelolalaporantahunan #laporantahunan .contentlaporantahunan .annualreport{width:290px;}
+#middle.home #tatakelolalaporantahunan #laporantahunan .contentlaporantahunan .annualreport .right{width:65px;}
+#middle.home #tatakelolalaporantahunan #laporantahunan .contentlaporantahunan .annualreport .left{display:none;}
+
+#middle.home #tatakelolalaporantahunan #laporantahunan .contentlaporantahunan .sustainability{width:290px;}
+#middle.home #tatakelolalaporantahunan #laporantahunan .contentlaporantahunan .sustainability .right{width:65px;}
+#middle.home #tatakelolalaporantahunan #laporantahunan .contentlaporantahunan .sustainability .left{display:none;}
+#middle.home #tatakelolalaporantahunan #laporantahunan .contentlaporantahunan .sustainability .center{margin-left:12px;}
+
+#middle.home #tatakelolalaporantahunan #laporantahunan .contentlaporantahunan .btn-lt{width:290px;}
+
+
+/*pesan direktur utama*/
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentdirektur{width:290px;}
+#middle.layanan .toggle-label-box {
+	height: auto;line-height: 18px;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+/*formulir*/
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .inputformulir [type=text]{width:265px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .inputformulir50 [type=text]{width:265px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .inputformulir textarea{width:265px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .inputformulircheck{width:265px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .labelsize{width: 265px;height: auto;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .inputformulircheck.formulirwidthfix{width:265px;}
+.signature-left{width:100%}
+.signature-right{width:100%}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .label2.labels{
+	width: 260px;line-height: 15px;margin-bottom:10px;
+}
+.textformulircheck{margin-top:10px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .contentprosedurpengajuan .box-prosedur .prosedur-img-box .img-prosedur{width: 200px;height: auto;float: none;margin: auto;}
+#middle.layanan .wrapper .containermain .right .content-right .row .contentprosedurpengajuan .box-prosedur .prosedur-img-box .img-arrow-prosedur{
+	width: 35px;
+	float: none;
+	margin: auto;
+	-ms-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+/*berita*/
+.search-berita [type=text]{width:250px;}
+#middle.berita .wrapper .containermain .right .content-right .row .contentberita .rowberita .content-berita-right{width:290px;}
+
+/*berita detail*/
+#middle.detailberita .wrapper .containermain .right .content-right .row .contentdetailberita .controlpage .beritasebelumnya{width:140px;}
+#middle.detailberita .wrapper .containermain .right .content-right .row .contentdetailberita .controlpage .beritaselanjutnya{width:140px;}
+
+/*laporan*/
+#middle.laporan .wrapper .containermain .right .content-right .row .contentlaporan .rowlaporan .titlelaporan{width:155px;}
+.rowlaporan .titlelaporan{width:165px;}
+/*karir*/
+#middle.humancapital .row-karir .content-karir{width: 290px;margin-left: 0px;}
+#middle.humancapital .row-karir .content-karir p.karir-text1{margin-top:15px;}
+
+/*testimoni*/
+#middle.humancapital .row-testimoni .content-testi p.testi-text1{margin-top:15px;}
+#middle.humancapital .row-testimoni .content-testi{margin-left:0px;}
+
+/*hubungi kami*/
+ 
+
+/*footer*/
+#footer .footerblue .wrapper .wrapper-box .wrapper1{padding-right: 27px;padding-left: 0px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper2{padding-left: 27px;padding-right: 0px;border-right: 0px}
+#footer .footerblue .wrapper .wrapper-box .wrapper3{padding-left: 0px;padding-right: 0px;width: 100%;text-align: center;margin-top: 15px;margin-bottom: 15px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4{width: 290px;}
+
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .callcenter .callcenter-text .callcenter{font-size:14px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .callcenter .callcenter-text .callcenterno{font-size:14px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .callcenter .callcenter-img{width:30px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .callcenter{margin-right:7px;}
+
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .smscenter .smscenter-text .smscenter{font-size:14px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .smscenter .smscenter-text .smscenterno{font-size:14px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .smscenter .smscenter-img{width:30px;}
+.titlefooter{font-size:13px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .link .linklabel{margin-top:15px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .link .linkimage img{width:35px;}
+#footer .footerblue .wrapper .wrapper-box{padding-top:30px;}
+#footer .footerblue{height:235px;}
+#footer .footerwhite .wrapper .footertext{width:290px;}
+
+
+
+/*
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .callcenter{margin-right: 0px;margin: auto;width: 163px;float:none;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .smscenter{margin-right: 0px;margin: auto;width: 100%;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .callcenter .callcenter-text .callcenter{width:110px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .smscenter .smscenter-text .smscenter{width:95px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .smscenter{width:176px;} */
+ 

@@ -1,0 +1,210 @@
+/*=============================================================================================	
+	style css decorated by : Web Architect (webarq.com)
+	author : Restu Herwanto
+==============================================================================================*/
+/*global*/
+.wrapper{width:440px;}
+.linetotop{height:4px;}
+.clear_responsive_480{display:block;margin-left:22px;position: relative;top: -6px;clear:both;}
+.clear_responsive_320{display:initial;margin-left:0px;position: relative;top: 0px;clear:both;}
+.clear_responsive_480_radio{display:block;position: relative;clear:both;}
+.clear_responsive_320_radio{display:initial;position: relative;clear:both;}
+ .responsive_design_display{
+	display:block;
+}
+.desktop_design_display{
+	display:none;
+}
+/*header*/
+#header{background: url(../images/material/bg-header320.jpg)no-repeat top right;}
+
+/*home*/
+#middle.home .content .labellayanan{font-size: 24px;line-height: 30px;}
+
+#middle.home .content .value{margin-top: 15px;width: 424px;}
+#middle.home .content .value .box{margin-right: 5px;margin-left: 5px;width: 200px;}
+#middle.home .content .value .box:last-child{margin-right: 5px;margin-left: 5px;}
+
+#middle.home .content .value-prosedur{width: 100%;margin-top: 25px;}
+#middle.home .content .value-prosedur .box-prosedur{float:none;margin:auto;}
+#middle.home .content .value-prosedur .arrow-prosedur{float:none;margin:auto;height: 95px;}
+#middle.home .content .value-prosedur .arrow-prosedur .arrow-img{background: url(../images/material/arrow-bottom.png)no-repeat center;}
+
+.wrapperleft{width: 100%;}
+.wrapperright{width: 100%;background: #297fc3;}
+#middle.home #profil .main-profil {margin-top: 45px;}
+#middle.home #profil .main-profil .wrapperfull .wrapperright .content-profil{width: 440px;margin: auto;padding-left: 0px;padding-bottom: 30px;}
+
+#beritakami{clear:both;width: 440px;}
+#middle.home #beritakami .content-berita .box-berita .berita-img{width: 210px;height: auto;}
+#middle.home #beritakami .content-berita .box-berita .berita-img img{width: 210px;height: auto;}
+#middle.home #beritakami .content-berita .box-berita{width: 208px; }
+
+#middle.home #tatakelolalaporantahunan #laporantahunan .row-title{margin-top: 50px;margin-bottom: 30px;}
+#tatakelolalaporantahunan{margin-bottom: 50px;}
+
+#map{margin-top: 30px;}
+#middle.home #map .textmap{font-size: 23px;line-height: 30px;width: 100%;margin-bottom: 30px;}
+#middle.home #map .divmap{width: 100%;height: 189px;margin-top: 40px;margin-bottom: 45px;}
+
+#contentbottom{margin-top: 40px;margin-bottom: 10px; width: 227px;}
+#middle.home #contentbottom .wrapcontentbox{width: initial;margin: auto;padding-left: 0px;margin-left: 0px;margin-right: 0px;}
+#middle.home #contentbottom .wrapcontentbox .box-content{width:227px;margin-left: 0px;margin-right: 0px;margin-bottom:10px;}
+#middle.home #contentbottom .wrapcontentbox .box-content:first-child{margin-left: 0px;}
+#middle.home #contentbottom .wrapcontentbox .box-content:last-child{margin-left: 0px;margin-bottom:0px;}
+
+/*pesan direktur utama*/
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentdirektur{width: 440px;margin-left: 0px;}
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentdirektur p{line-height:18px;}
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentdirektur h4{padding-top: 15px;}
+
+/*sejarah*/
+.downlaodpdf_box img{position: inherit;left: 0px;width: 20px;position: relative;top: 3px;}
+.downlaodpdf_box{position: inherit;text-align: center;width:100%;margin-bottom: 20px;}
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentsejarah .toggle-content-open .contentsejarah1{overflow-x: auto;}
+.table1-sejarah table{width: 655px;}
+.table1-sejarah{margin-left: -15px;}
+
+/*dewan komisaris*/
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentkomisaris{width: 100%;margin-left: 0px;}
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentkomisaris h1{padding-top: 15px;}
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentkomisaris p{line-height: 18px;}
+
+/*dewan direksi*/
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentdireksi{width: 100%;margin-left: 0px;}
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentdireksi h4{padding-top: 15px;}
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentdireksi p{line-height: 18px;}
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentdireksi h6{font-size: 19px;}
+
+/*struktur organisasi*/
+.labelstrukturzoom{display:block;margin-top: 30px;}
+
+/*anak perusahaan*/
+ 
+#banner .wrapperfull .banner{width:100%; text-align:center;height:220px;}
+/*penghargaan*/
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentpenghargaan{width: 100%;margin-left: 0px;}
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentpenghargaan h3{padding-top: 15px;}
+#middle.tentangkami .wrapper .containermain .right .content-right .row .contentpenghargaan p{margin-bottom:0px;}
+
+/*lingkup jamin*/
+#middle.layanan .wrapper .containermain .right .content-right .row .contentlingkupjaminan img{margin-bottom: 0px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .contentlingkupjaminan p{margin-bottom:25px;}
+
+/*formulir*/
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .inputformulir [type=text]{width: 415px;margin-left: 25px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .inputformulir50 [type=text]{width: 415px;margin-left: 25px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .inputformulir textarea{width: 415px;height: 100px;margin-left: 25px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .inputformulircheck{margin-left: 25px;position: relative;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .labelsize{width: 415px;height:auto;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .labelsize [type=text]{margin-right: 0px;width: 113px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .labelsize .jam{margin-left: 0px;position: relative;left: 190px;top: -10px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .labelsize .tanggal{margin-left: 0px;position: relative;left: 0px;top: 8px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .label2{width: auto;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .inputformulircheck.formulirwidthfix{width:415px;margin-left: 0px;}
+#middle.layanan .wrapper .containermain .right .content-right .row .rowformulir .label{width:auto;}    
+#middle.layanan .wrapper .containermain .right .content-right .row .contentprosedurpengajuan .box-prosedur .prosedur-img-box .img-prosedur{width: 200px;height: auto;float: none;margin: auto;}
+#middle.layanan .wrapper .containermain .right .content-right .row .contentprosedurpengajuan .box-prosedur .prosedur-img-box .img-arrow-prosedur{
+	width: 35px;
+	float: none;
+	margin: auto;
+	-ms-transform: rotate(90deg);
+	-webkit-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+/*jumlah santunan*/
+.table1-prosedur{padding-top: 25px;margin-bottom: 10px;overflow-x: auto;padding-bottom: 10px;}
+.table1-prosedur table{width: 670px;}
+
+/*struktur*/
+#middle.tatakelola .wrapper .containermain .right .content-right .row .contentstruktur img{margin-bottom: 30px;}
+
+/*implementasi*/
+#middle.tatakelola .toggle-label-box{
+	width: 100%;
+	height: auto;
+	border: 1px solid #297fc3;
+	background: url(../images/material/bg-toggle.png)no-repeat right bottom;
+	font-size: 16px;
+	font-family: Opensans;
+	color: #297fc3;
+	line-height: 18px;
+	padding-left: 15px;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+/*berita*/
+.search-berita{position: inherit;width:100%;}
+.search-berita [type=text]{width:400px;}
+.filterberita .filterfield{float:none;}
+.filterfieldleft{
+	margin-top: 20px;
+}
+.filterfieldright{
+	margin-top: 15px;
+}
+#middle.berita .wrapper .containermain .right .content-right .row .contentberita .rowberita .content-berita-right{margin-left: 0px;}
+#middle.berita .wrapper .containermain .right .content-right .row .contentberita .rowberita .content-berita-right p.title1berita{margin-top:20px;}
+#middle.berita .wrapper .containermain .right .content-right .row .contentberita .rowberita .content-berita-right .socmed-icon{top:20px;}
+#middle.berita .wrapper .containermain .right .content-right .row .contentberita .rowberita .content-berita-right{width:440px;}
+#middle.berita .wrapper .containermain .right .content-right .row .contentberita .rowberita .content-berita-right p.textberita{line-height:20px;}
+#middle.berita .wrapper .containermain .right .content-right .row .contentberita .rowberita{height:auto;}
+
+/*detail berita*/
+.bx-wrapper .bx-pager{display:none;}
+.bx-wrapper{margin-bottom:30px;}
+
+/*laporan*/
+#middle.laporan .wrapper .containermain .right .content-right .row .contentlaporan .rowlaporan .titlelaporan{
+	float: left;
+	font-family: Opensanslight;
+	font-size: 14px;
+	color: #6d6d6d;
+	height: auto;
+	line-height: inherit;
+	width: 300px;
+	padding-left: 10px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+.rowlaporan .titlelaporan{
+	float: left;
+	font-family: Opensanslight;
+	font-size: 14px;
+	color: #6d6d6d;
+	height: 41px;
+	width: 279px;
+	padding-left: 10px;
+	line-height: inherit;
+}
+/*hubungi kami*/
+.hubungi-left{margin-top: 0;}
+#middle.hubungikami .downlaodpdf_box{display:none;}
+ 
+ 
+
+/*testimoni*/
+#middle.humancapital .row-testimoni .content-testi{width: 290px;}
+#middle.humancapital .row-karir .content-karir{width: 290px;}
+
+/*footer*/
+#footer .footerblue .wrapper .wrapper-box{width:100%;}
+#footer .footerblue .wrapper .wrapper-box .wrapper1{padding-right: 27px;padding-left:0px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper2{padding-left: 27px;padding-right: 27px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper3{padding-left: 27px;padding-right:0px;}
+
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .smscenter{margin-left: 0px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4{float: none;width: 377px;margin: auto;margin-top: 45px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .callcenter{margin-right: 18px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .smscenter{margin-right: 0px;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .link{margin: auto;margin-top: 0px;float: none;text-align: center;}
+#footer .footerblue .wrapper .wrapper-box .wrapper4 .link .linklabel{text-align: center;margin-top: 25px;clear: both;display: inline-block;}
+#footer .footerblue{height: 260px;background: url(../images/material/footer-back480.jpg) no-repeat center;}
+#footer .footerwhite .wrapper .footertext{padding-top: 20px;width: 377px;margin: auto;line-height: 20px;}
+#footer .footerwhite .wrapper .footersocmed{padding-top: 10px;}
+#footer .footerwhite{height: auto;}

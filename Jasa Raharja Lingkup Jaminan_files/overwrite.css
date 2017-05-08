@@ -1,0 +1,54 @@
+/***
+ * Customize for CK Editor Needed
+ */
+
+.fontSize20 { font-size: 20px !important;line-height: 28px !important; }
+.fontSize14,.fontSize18,.fontSize20,.text2sejarah1 ul li,.text2sejarah1 ol li {font-family:Opensanslight !important;margin: 0px !important;}
+.fontSize14,.text2sejarah1 ul li,.text2sejarah1 ol li {font-size:14px !important;line-height:20px !important;color:#6d6d6d !important;}
+.fontSize14.Bold,.fontSize18.Bold,
+.fontSize20.Bold
+{ font-family: Opensansbold !important; }
+.fontSize14.normal,
+.fontSize18.normal,
+.fontSize20.normal,
+.contentkinerja li li 
+{ font-family: Opensans !important; }
+.fontSize18 { font-size: 18px !important; line-height: 25px !important; }
+.fontSize14.blue,.fontSize14 .blue,
+.fontSize18.blue,.fontSize18 .blue,
+.fontSize20.blue,.fontSize20 .blue,
+.contentkinerja li li ul li { color: #297fc3 !important; }
+.contentkinerja li li  { color:#6d6d6d !important;font-size: 14px !important; }
+.contentkinerja li > span { padding-top:10px;}
+.contentkinerja .rowprogram > ol > li > span:last-child { border-bottom: 1px dotted #9a9a9a !important;padding-bottom: 25px !important;margin-bottom: 25px !important;margin-left: -25px !important; }
+.contenttujuan ol { font-family: Opensansbold;font-size: 14px;float: left;padding-right: 10px;padding-left: 21px; }
+.contentimplementasi li ol { margin-top:10px !important; }
+.contentimplementasi li .fontSize14,
+.contentkinerja li > span { display: block; }
+.contentimplementasi li .fontSize14 { margin-top:10px !important; }
+.contentimplementasi li .fontSize14:first-child { margin-top:0 !important; }
+#middle.home .content .labellayanan p {font-size: 30px;color: #8f8f8f;line-height: 32px !important;text-align: center;padding-top: 15px;}
+#middle.home #map .textmap p {font-size:24px;line-height:30px;font-family:Opensanslight;color:#8f8f8f;text-align:center;width:auto;margin:auto;margin-bottom:35px;}
+.error-message {margin-left:0px;background-color: #ccc;padding: 10px;}
+.error-message li {list-style-type:none;line-height: 24px;}
+.rowformulir .inputformulir,.rowformulir .inputformulir50 {float:left;}
+.rowformulir div.message {margin-top:5px;}
+.rowformulir div.message div.error {color:#f00;border: none;}
+.inputform {float:none !important;}
+.karir-text3 h4 {font-family: Opensanslight !important;font-size: 18px !important;line-height: 24px !important;color: #989898 !important;font-style: italic !important;margin: 5px 0px 10px !important;}
+.table1-sejarah table tr td,.table1-sejarah table tr td * { font-family: opensanssemibold !important;font-size: 12px !important;line-height: 15px !important; }
+.table1-sejarah table tr {padding-bottom:5px;}
+table tr.space,
+table tr.space td {height: 3px !important;line-height: 0px !important;border:0;padding-bottom:0px !important;}
+.img-prosedur-ct { height: 100px;width: 100px;background-repeat:no-repeat;background-position:center;background-color: #297fc3;border-radius: 110px;-webkit-border-radius: 110px;-moz-border-radius: 110px;-o-border-radius: 110px;-khtml-border-radius: 110px;margin: auto;border: 5px solid #297fc3;}
+ol.upper-alpha {font-family: Opensansbold;font-size: 14px;float: left;padding-right: 10px;padding-left: 21px;}
+ol.upper-alpha > li {margin-bottom:15px;list-style-type:upper-alpha;}
+#middle.tatakelola .wrapper .containermain .right .content-right .row .contentimplementasi .toggle-content-open h1 {font-family: Opensanslight;font-size: 20px;line-height: 28px;color: #474747;margin-bottom: 20px;}
+#middle.tatakelola .wrapper .containermain .right .content-right .row .contentimplementasi ol.upper-alpha {margin-top:0px;} 
+.contentkinerjakemitraan ol.upper-alpha {float:none;margin-left: 15px;}
+.contentkinerja .rowprogram ol li ul li {list-style-type: initial;}
+h4.content-h4-title {font-family: Opensanslight;font-size: 20px;line-height: 24px;color: #297fc3;margin-bottom: 15px;}
+.search-results a {display:inline-block;text-decoration: none;color:#6d6d6d;}
+.search-results .pages {margin: 0 0 10px 10px;}
+.search-results .pages span.title, .search-results .pages span.desc {display: block;line-height:20px;}
+.titlefooter a {text-decoration:none;color:#fff;}

@@ -1,0 +1,134 @@
+.kl-share16 *,
+.kl-share16 *:after,
+.kl-share16 *:before{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.kl-share16 {
+	margin:30px 0;
+	overflow:hidden;
+}
+.kl-share16 .list-share16{
+	list-style:none;
+	margin:0 -4px;
+	padding:0;
+	display:table;
+}
+.kl-share16 .list-share16 > li{
+	display: table-cell;
+	vertical-align: middle;
+	padding:0 4px;
+}
+.kl-share16 .list-share16 > li a{
+	background-repeat:no-repeat;
+	width:45px;
+	height:45px;
+	display:block;
+	-webkit-transition:all 0.5s ease;
+	transition:all 0.5s ease;
+}
+.kl-share16 .list-share16 > li .fb-share{
+	background-image:url(https://api.brilio.net/beta/assets/img/share/fb.png);
+}
+.kl-share16 .list-share16 > li .tweet-share{
+	background-image:url(https://api.brilio.net/beta/assets/img/share/tw.png);
+}
+.kl-share16 .list-share16 > li .gplus-share{
+	background-image:url(https://api.brilio.net/beta/assets/img/share/g+.png);
+}
+.kl-share16 .list-share16 > li .fb-share:hover{
+	background-image:url(https://api.brilio.net/beta/assets/img/share/fb-hover.png);
+}
+.kl-share16 .list-share16 > li .tweet-share:hover{
+	background-image:url(https://api.brilio.net/beta/assets/img/share/tw-hover.png);
+}
+.kl-share16 .list-share16 > li .gplus-share:hover{
+	background-image:url(https://api.brilio.net/beta/assets/img/share/g+-hover.png);
+}
+.kl-share16 .list-share16 > li.count-share{
+	padding-left:10px;
+}
+.kl-share16 .list-share16 > li.count-share dt,
+.kl-share16 .list-share16 > li.count-share dd{
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	display: block;
+	line-height: 1.1em;
+}
+.kl-share16 .list-share16 > li.count-share dt{
+	font-size: 34px;
+	color: #333;
+	font-weight: bold;
+}
+.kl-share16 .list-share16 > li.count-share dd{
+	font-size:12px;
+	color:#858585;
+	letter-spacing: 3px;
+}
+
+/* for mobile */
+.mkl-share16 *,
+.mkl-share16 *:after,
+.mkl-share16 *:before{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.mkl-share16 {
+	margin:30px 0;
+	overflow:hidden;
+}
+.mkl-share16 .list-share16{
+	list-style:none;
+	margin:0 -4px;
+	padding:0;
+	display:table;
+}
+.mkl-share16 .list-share16 > li{
+	display: table-cell;
+	vertical-align: middle;
+	padding:0 4px;
+}
+.mkl-share16 .list-share16 > li a{
+	background-size: 38px;
+	background-repeat:no-repeat;
+	width:42px;
+	height:42px;
+	display:block;
+	background-position: 1px 1px;
+}
+.mkl-share16 .list-share16 > li .fb-share{
+	background-image: url(https://api.brilio.net/beta/assets/img/share/1.png);
+}
+.mkl-share16 .list-share16 > li .tweet-share{
+	background-image:url(https://api.brilio.net/beta/assets/img/share/2.png);
+}
+.mkl-share16 .list-share16 > li .gplus-share{
+	background-image:url(https://api.brilio.net/beta/assets/img/share/3.png);
+}
+.mkl-share16 .list-share16 > li .wa-share{
+	background-image:url(https://api.brilio.net/beta/assets/img/share/4.png);
+}
+.mkl-share16 .list-share16 > li.count-share{
+	padding-left:10px;
+}
+.mkl-share16 .list-share16 > li.count-share dt,
+.mkl-share16 .list-share16 > li.count-share dd{
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	display: block;
+	line-height: 1.1em;
+}
+.mkl-share16 .list-share16 > li.count-share dt{
+	font-size: 33px;
+	color: #333;
+	font-weight: bold;
+}
+.mkl-share16 .list-share16 > li.count-share dd{
+	font-size:11px;
+	color:#858585;
+	letter-spacing: 3px;
+}

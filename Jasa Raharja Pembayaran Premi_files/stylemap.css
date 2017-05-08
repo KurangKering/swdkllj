@@ -1,0 +1,334 @@
+/*=============================================================================================	
+	style css decorated by : Web Architect (webarq.com)
+	author : Restu Herwanto
+==============================================================================================*/
+.linelabelglobal{
+	position: absolute;
+	font-family: Opensans;
+	font-size:12px;
+	color:#444041;
+}
+/*aceh*/
+.line-bandaaceh{
+	top: 15px;
+	left: 4px;
+}
+.label-bandaaceh{
+	top: -2px;
+	left: 2px;
+}
+/*medan*/
+.line-medan{
+	top: 49px;
+	left: 60px;
+}
+.label-medan{
+	top: 33px;
+	left: 59px;
+}
+/*pekanbaru*/
+.line-pekanbaru{
+	top: 90px;
+	left: 116px;
+}
+.label-pekanbaru{
+	top: 73px;
+	left: 115px;
+}
+/*jambi*/
+.line-jambi{
+	top: 130px;
+	left: 160px;
+}
+.label-jambi{
+	top: 113px;
+	left: 161px;
+}
+/*palembang*/
+.line-palembang{
+	top: 158px;
+	left: 182px;
+}
+.label-palembang{
+	top: 141px;
+	left: 181px;
+}
+/*padang*/
+.line-padang{
+	top: 153px;
+	left: 23px;
+}
+.label-padang{
+	top: 172px;
+	left: 22px;
+}
+/*bengkulu*/
+.line-bengkulu{
+	top: 223px;
+	left: 63px;
+}
+.label-bengkulu{
+	top: 243px;
+	left: 62px;
+}
+/*bandarlampung*/
+.line-bandarlampung{
+	top: 261px;
+	left: 71px;
+}
+.label-bandarlampung{
+	top: 280px;
+	left: 70px;
+}
+/*jakarta*/
+.line-jakarta{
+	top: 284px;
+	left: 244px;
+}
+.label-jakarta{
+	top: 267px;
+	left: 245px;
+}
+/*semarang*/
+.line-semarang{
+	top: 284px;
+	left: 308px;
+}
+.label-semarang{
+	top: 267px;
+	left: 308px;
+}
+/*surakarta*/
+.line-surakarta{
+	top: 301px;
+	left: 320px;
+}
+.label-surakarta{
+	top: 286px;
+	left: 320px;
+}
+/*surabaya*/
+.line-surabaya{
+	top: 312px;
+	left: 379px;
+}
+.label-surabaya{
+	top: 296px;
+	left: 379px;
+}
+/*denpasar*/
+.line-denpasar{
+	top: 332px;
+	left: 409px;
+}
+.label-denpasar{
+	top: 316px;
+	left: 408px;
+}
+/*bandung*/
+.line-bandung{
+	top: 327px;
+	left: 206px;
+}
+.label-bandung{
+	top: 332px;
+	left: 210px;
+}
+/*yogyakarta*/
+.line-yogyakarta{
+	top: 334px;
+	left: 239px;
+}
+.label-yogyakarta{
+	top: 349px;
+	left: 240px;
+}
+/*malang*/
+.line-malang{
+	top: 344px;
+	left: 310px;
+}
+.label-malang{
+	top: 362px;
+	left: 316px;
+}
+/*jember*/
+.line-jember{
+	top: 339px;
+	left: 375px;
+}
+.label-jember{
+	top: 364px;
+	left: 383px;
+}
+/*mataram*/
+.line-mataram{
+	top: 356px;
+	left: 400px;
+}
+.label-mataram{
+	top: 383px;
+	left: 399px;
+}
+/*kupang*/
+.line-kupang{
+	top: 361px;
+	left: 623px;
+}
+.label-kupang{
+	top: 379px;
+	left: 628px;
+}
+/*pontianak*/
+.line-pontianak{
+	top: 117px;
+	left: 247px;
+}
+.label-pontianak{
+	top: 101px;
+	left: 246px;
+}
+/*palangkaraya*/
+.line-palangkaraya{
+	top: 122px;
+	left: 308px;
+}
+.label-palangkaraya{
+	top: 106px;
+	left: 307px;
+}
+/*balikpapan*/
+.line-balikpapan{
+	top: 65px;
+	left: 368px;
+}
+.label-balikpapan{
+	top: 49px;
+	left: 379px;
+}
+/*banjarmasin*/
+.line-banjarmasin{
+	top: 215px;
+	left: 411px;
+}
+.label-banjarmasin{
+	top: 255px;
+	left: 417px;
+}
+/*makassar*/
+.line-makassar{
+	top: 281px;
+	left: 456px;
+}
+.label-makassar{
+	top: 288px;
+	left: 456px;
+}
+/*palu*/
+.line-palu{
+	top: 131px;
+	left: 519px;
+}
+.label-palu{
+	top: 115px;
+	left: 519px;
+}
+/*gorontalo*/
+.line-gorontalo{
+	top: 107px;
+	left: 565px;
+}
+.label-gorontalo{
+	top: 91px;
+	left: 566px;
+}
+/*manado*/
+.line-manado{
+	top: 126px;
+	left: 591px;
+}
+.label-manado{
+	top: 111px;
+	left: 591px;
+}
+/*kendari*/
+.line-kendari{
+	top: 177px;
+	left: 546px;
+}
+.label-kendari{
+	top: 163px;
+	left: 545px;
+}
+/*ternate*/
+.line-ternate{
+	top: 120px;
+	left: 684px;
+}
+.label-ternate{
+	top: 104px;
+	left: 683px;
+}
+/*ambon*/
+.line-ambon{
+	top: 222px;
+	left: 660px;
+}
+.label-ambon{
+	top: 209px;
+	left: 666px;
+}
+/*sorong*/
+.line-sorong{
+	top: 163px;
+	left: 752px;
+}
+.label-sorong{
+	top: 146px;
+	left: 751px;
+}
+/*jayapura*/
+.line-jayapura{
+	top: 192px;
+	left: 889px;
+}
+.label-jayapura{
+	top: 174px;
+	left: 889px;
+}
+/*pulau===*/
+.p-sumatera{
+	position: absolute;
+	top: 147px;
+	left: 105px;
+}
+.p-jawa{
+	position: absolute;
+	top: 319px;
+	left: 296px;
+}
+.p-kalimantan{
+	position: absolute;
+	top: 166px;
+	left: 327px;
+}
+.p-sulawesi{
+	position: absolute;
+	top: 208px;
+	left: 495px;
+}
+.p-nusatenggara{
+	position: absolute;
+	top: 318px;
+	left: 524px;
+}
+.p-maluku{
+	position: absolute;
+	top: 256px;
+	left: 646px;
+}
+.p-papua{
+	position: absolute;
+	top: 242px;
+	left: 861px;
+}

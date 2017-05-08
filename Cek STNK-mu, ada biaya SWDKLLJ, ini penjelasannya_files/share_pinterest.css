@@ -1,0 +1,48 @@
+ img{
+ 	position: relative;
+ }
+
+ .body-paragraph p{
+ 	position: relative;
+ }
+
+.content-img{
+	/*display: inline-block !important;*/
+    position: relative;
+}
+
+.content-img img{
+	width: 100%;
+}
+
+.share-pinterest{
+    display: none;
+}
+
+.content-img:active .share-pinterest {
+    display: block;
+}
+
+.content-img:focus .share-pinterest {
+    display: block;
+}
+
+.content-img:hover .share-pinterest {
+    display: block;
+}
+
+.share-pinterest{
+    z-index: 1;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    opacity: 0;
+}
+
+.share-pinterest{
+    opacity: .9;
+       transition: opacity .2s ease-out;
+  -moz-transition: opacity .2s ease-out;
+  -webkit-transition: opacity .2s ease-out;
+  -o-transition: opacity .2s ease-out;
+}
